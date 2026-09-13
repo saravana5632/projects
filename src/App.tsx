@@ -11,7 +11,7 @@ export default function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/projects">
       <div className="min-h-screen bg-background text-foreground font-sans selection:bg-primary/30 flex flex-col">
         <Navbar />
         <main className="flex-grow">
