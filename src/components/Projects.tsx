@@ -24,7 +24,7 @@ export function Projects() {
             <div className="size-12 rounded-2xl bg-primary/10 flex items-center justify-center">
               <Blocks className="text-primary size-6" />
             </div>
-            <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground">Projects Showcase</h1>
+            <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground">Projects</h1>
           </div>
           <p className="text-muted-foreground text-lg max-w-2xl font-light">
             A comprehensive collection of my engineering work. Browse through applications, models, and systems I have built.
