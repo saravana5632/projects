@@ -99,7 +99,7 @@ export const projects: Project[] = [
     id: "ai-health-care",
     title: "AI Health Care",
     description: "An AI-driven healthcare solution repository focused on leveraging modern technologies for health analysis and tracking.",
-    category: "ML / Data Science",
+    category: "AI / ML",
     technologies: ["Python", "AI", "Healthcare"],
     year: 2025,
     status: "Completed",
