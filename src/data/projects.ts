@@ -126,17 +126,6 @@ export const projects: Project[] = [
     year: 2025,
     status: "Completed",
     githubUrl: "https://github.com/saravana5632/Traffic-intelligence",
-    liveUrl: "",
-  },
-  {
-    id: "campusai-student-companion",
-    title: "CampusAI Student Companion",
-    description: "An AI assistant and utility hub designed to help students manage their schedules, notes, and academic activities on campus.",
-    category: "Web Development",
-    technologies: ["AI", "React", "Student Utility"],
-    year: 2025,
-    status: "Completed",
-    githubUrl: "https://github.com/saravana5632/campusai-student-companion",
-    liveUrl: "",
+    liveUrl: "https://traffic-intelligence5632.vercel.app/",
   }
 ];
